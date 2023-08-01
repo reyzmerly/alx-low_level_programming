@@ -3,19 +3,18 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
- * structual listinting_s – display singly linked list
- * @n: integer of n
- * @next: here points to the next node
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
  *
- * Description: when singly linked list node structure
- * for this alx project
+ * Description: singly linked list node structure
+ * 
  */
 typedef struct listint_s
 {
-	int n;
-	struct listint_s *next;
+    int n;
+    struct listint_s *next;
 } listint_t;
 
 void free_listint(listint_t *head);
