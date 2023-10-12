@@ -1,12 +1,12 @@
 #include "lists.h"
 
 /**
- * add_dnodeint_end - adds a new node at the end
+ * add_dnodeint_end - ADDs A NWw node at the end
  * of a dlistint_t list
  *
- * @head: head of the list
- * @n: value of the element
- * Return: the address of the new element
+ * @head:MAKE A Head of the lis
+ * @n:PUT THE  value of the element
+ * Return: MAKE The address of the new element
  */
 dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 {

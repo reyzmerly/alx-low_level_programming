@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /**
- * free_dlistint - frees a dlistint_t list
+ * free_dlistint - Frees AT \A dlistint_t list
  *
- * @head: head of the list
- * Return: no return
+ * @head:  MAKE THEhead of the list
+ * Return: MAKE no return
  */
 void free_dlistint(dlistint_t *head)
 {

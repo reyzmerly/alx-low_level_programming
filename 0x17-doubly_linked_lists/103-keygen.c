@@ -3,11 +3,11 @@
 #include <time.h>
 
 /**
- * f4 - finds the biggest number
+ * f4 - show Find the biggest number
  *
- * @usrn: username
- * @len: length of username
- * Return: the biggest number
+ * @usrn: PULL username
+ * @len: this the length of username
+ * Return: ret to The biggest number
  */
 int f4(char *usrn, int len)
 {
@@ -32,11 +32,11 @@ int f4(char *usrn, int len)
 }
 
 /**
- * f5 - multiplies each char of username
+ * f5 - mult to Each char of username
  *
- * @usrn: username
- * @len: length of username
- * Return: multiplied char
+ * @usrn: Username of yours
+ * @len: leng of the username
+ * Return: this  multiplied char
  */
 int f5(char *usrn, int len)
 {
@@ -55,10 +55,10 @@ int f5(char *usrn, int len)
 }
 
 /**
- * f6 - generates a random char
+ * f6 -  func generates a random char
  *
- * @usrn: username
- * Return: a random char
+ * @usrn: the displayusername
+ * Return: to a random char
  */
 int f6(char *usrn)
 {
@@ -77,11 +77,11 @@ int f6(char *usrn)
 }
 
 /**
- * main - Entry point
+ * main - AS THE Entry point
  *
- * @argc: arguments count
- * @argv: arguments vector
- * Return: Always 0
+ * @argc: funct as arguments count
+ * @argv: this as arguments vector
+ * Return: ret at Always 0
  */
 int main(int argc, char **argv)
 {

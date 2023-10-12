@@ -1,3 +1,4 @@
+COPYRIGHTED BY REYZ MERLY
 # C - Doubly linked lists
 
 In this project, I learned about using doubly-linked lists in C.
@@ -96,3 +97,4 @@ and functions written for the project.
   [crackme5](https://github.com/holbertonschool/0x16.c) executable.
   * Usage of the crackme: `./crackme5 username key`
   * Usage of the keygen: `./keygen5 username`
+BY NG REYZ MERLY GODCHOSEN

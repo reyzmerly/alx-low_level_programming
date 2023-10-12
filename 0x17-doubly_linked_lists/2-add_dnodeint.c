@@ -1,12 +1,12 @@
 #include "lists.h"
 
 /**
- * add_dnodeint - adds a new node at the beginning
+ * add_dnodeint - ADDs TO A NEw node At the beg
  * of a dlistint_t list
  *
- * @head: head of the list
- * @n: value of the element
- * Return: the address of the new element
+ * @head: FOR THE Head of the list
+ * @n: PUT  Val of the element
+ * Return: RETURN THe address of the new element
  */
 dlistint_t *add_dnodeint(dlistint_t **head, const int n)
 {
